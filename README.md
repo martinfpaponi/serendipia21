@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Martín Fenrández Paponi @serendipia21
+- 👋 Hi, I’m  Martín Fenrández Paponi @martinfpaponi
 - 👀 I’m interested in lighting design, code, web development, 3D modeling, design, art, and every thing in between!
 - 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking to collaborate on ...
